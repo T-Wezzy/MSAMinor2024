@@ -1,2 +1,2 @@
 # MSA Minor 2024
-This contains code for the cost funciton
+This repo will store code for the msa minor in 2024
